@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "start": "next start"
   },
   "dependencies": {
@@ -20,7 +20,7 @@
     "react-dom": "latest",
     "tailwindcss": "3.4.17",
     "typescript": "5.7.3",
-    "use-debounce": "^10.0.4",
+    "use-debounce": "^10.0.6",
     "zod": "^3.25.17"
   },
   "devDependencies": {
